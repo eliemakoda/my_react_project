@@ -1,0 +1,27 @@
+.body
+{
+    background-color: rgb(191, 56, 56);
+}
+section{
+    text-align: center;
+    padding: 50% auto;
+    height: 100%;
+    width: 100%;
+    background-color: palevioletred;
+}
+#bt{
+    height: 120px;
+    width: 140px;
+    font-size: 80px;
+    opacity: 1;
+    background-color: inherit;
+    margin-bottom: 15%;
+    border: 2px solid black;
+    color: white;
+}
+#label{
+    color: whitesmoke;
+    font-size: 28px;
+    text-transform: uppercase;
+    text-decoration: wavy;
+}
