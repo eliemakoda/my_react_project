@@ -1,18 +1,13 @@
 import React from "react";
 import './home'
-function Header(donnee)
+
+function Header()
 {
     return (
-            <header>    
-                <ul>
-                    <li>
-                        HOME
-                    </li>
-                    <li>
-                        About
-                    </li>
-                </ul>
-            </header>
+        <div>
+            <p> here's the header file </p>
+            <p> i'm trying top configure and link my different pages</p>
+    </div>     
     )
 }
 export default Header;
